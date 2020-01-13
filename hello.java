@@ -1,5 +1,5 @@
 
-public class Hello{
+public class hello{
 
 public ststic void main(){
 
